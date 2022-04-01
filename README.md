@@ -9,7 +9,7 @@
   Front-End Developer
 </p>
 
-- 🔭 I'm working with JavaScript Full-stack
+- 🔭 I'm working with JavaScript
 - 🌱 Currently learning React
 - 📫 Contact me at: igorcastilhos2010@hotmail.com
 

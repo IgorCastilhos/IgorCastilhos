@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I'm working with JavaScript
-- 🌱 Currently learning React
+- 🌱 Currently learning Node and React
 - 📫 Contact me at: igorcastilhos2010@hotmail.com
 
 <div align="center">

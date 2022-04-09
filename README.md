@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I'm working with JavaScript
-- 🌱 Currently learning Node and React
+- 🌱 Currently working on a Android App using React Native
 - 📫 Contact me at: igorcastilhos2010@hotmail.com
 
 <div align="center">

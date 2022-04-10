@@ -9,8 +9,8 @@
   Front-End Developer
 </p>
 
-- 🔭 I'm working with JavaScript
-- 🌱 Currently working on a Android App using React Native
+- 🔭 I'm working in a Notes App without Frameworks
+- 🌱 Currently learning about new projects
 - 📫 Contact me at: igorcastilhos2010@hotmail.com
 
 <div align="center">

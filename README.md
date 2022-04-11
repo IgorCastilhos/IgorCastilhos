@@ -6,7 +6,7 @@
 </h1>
 
 <p align='center'>
-  Front-End Developer
+  Full Stack Developer
 </p>
 
 - 🔭 I'm working in a Notes App without Frameworks

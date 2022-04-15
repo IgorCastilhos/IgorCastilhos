@@ -9,8 +9,8 @@
   Full Stack Developer
 </p>
 
-- 🔭 I'm working in a Notes App without Frameworks
-- 🌱 Currently learning about new projects
+- 🔭 I'm looking for a Full Stack JavaScript job opportunity
+- 🌱 Currently learning about React Native
 - 📫 Contact me at: igorcastilhos2010@hotmail.com
 
 <div align="center">

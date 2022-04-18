@@ -1,7 +1,6 @@
 <h1 align='center'>
-  Hello World! I'm Igor Castilhos
+  Welcome!
   <br/>
-  Welcome to my page
   
 </h1>
 

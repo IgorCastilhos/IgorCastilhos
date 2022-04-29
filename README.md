@@ -8,7 +8,7 @@
  Desenvolvedor Web Full-Stack Junior
 </p>
 
-- 🔥 Estou buscando uma vaga de Desenvolvedor Web Junior
+- 🔥 Estou em busca de uma vaga de Desenvolvedor Web Junior
 
 - 🔭 Estou aprendendo sobre React Native para lançar um App da empresa da minha família
 

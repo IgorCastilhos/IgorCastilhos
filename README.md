@@ -10,7 +10,7 @@
 
 - 🔥 Estou em busca de uma vaga de Desenvolvedor Web Junior
 
-- 🔭 Estou aprendendo sobre React Native para lançar um App da empresa da minha família
+- 🔭 Estou aprendendo Bootstrap
 
 - 📫 Entre em contato comigo pelo e-mail: igorcastilhos2010@hotmail.com
 

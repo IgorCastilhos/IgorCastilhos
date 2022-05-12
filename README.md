@@ -1,11 +1,11 @@
 <h1 align='center'>
-   Olá, como vai? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+   Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
   <br/>
   
 </h1>
 
 <p align='center'>
- Desenvolvedor Web Full-Stack Junior
+ Hi there, I'm Igor!
 </p>
 
 - 🔥 Estou em busca de uma vaga de Desenvolvedor Web Junior

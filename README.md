@@ -8,11 +8,11 @@
  Hi there, I'm Igor!
 </p>
 
-- 🔥 Estou em busca de uma vaga de Desenvolvedor Web Junior
+- 🔥 I'm looking for a Web Developer Intern offer 
 
-- 🔭 Estou aprendendo Bootstrap
+- 🔭 I'm learning Bootstrap
 
-- 📫 Entre em contato comigo pelo e-mail: igorcastilhos2010@hotmail.com
+- 📫 Contact me at: igorcastilhos2010@hotmail.com
 
 <div align="center">
   <a href="https://github.com/IgorCastilhos">
@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCastilhos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<h3>Essas são as linguagens que possuo conhecimento:</h3>
+<h3>These are the languages and technologies that i can use today:</h3>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

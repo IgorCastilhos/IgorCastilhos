@@ -1,18 +1,17 @@
 <h1 align='center'>
-   Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">
+   Hi There! I'm Igor
   <br/>
-  
 </h1>
 
 <p align='center'>
- Hi there, I'm Igor!
+ I'm a Information Systems student from Brazil!
 </p>
 
-- 🔥 I'm looking for a Web Developer Intern offer 
+- I'm currently looking for a Junior spot in a tech company
 
-- 🔭 I'm learning Bootstrap
+- I'm learning about Data Structures, Algorithms and Systems Design 
 
-- 📫 Contact me at: igorcastilhos2010@hotmail.com
+- Contact me at: igorcastilhos2010@hotmail.com
 
 <div align="center">
   <a href="https://github.com/IgorCastilhos">
@@ -20,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCastilhos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<h3>These are the languages and technologies that i know how to use today:</h3>
+<h3>🐼 These are the languages and technologies that i know how to use today:</h3>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

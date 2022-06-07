@@ -1,5 +1,5 @@
 <h1 align='center'>
-   Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+   Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">
   <br/>
   
 </h1>

@@ -1,5 +1,5 @@
 <h1 align='center'>
-   Hi There! I'm Igor
+   Hello there, my name is Igor!
   <br/>
 </h1>
 
@@ -7,9 +7,9 @@
  I'm a Information Systems student from Brazil!
 </p>
 
-- I'm currently looking for a Junior spot in a tech company
+- I'm currently looking for a job
 
-- I'm learning about Data Structures, Algorithms and Systems Design 
+- I'm learning about React
 
 - Contact me at: igorcastilhos2010@hotmail.com
 

@@ -4,10 +4,10 @@
 </h1>
 
 <p align='center'>
- I'm a Information Systems student from Brazil!
+ I am a Information Systems student from Brazil
 </p>
 
-- I'm currently looking for a job
+- I'm currently looking for a junior offer focused in Web Development
 
 - I'm learning about React
 

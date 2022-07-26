@@ -9,7 +9,7 @@
 
 - I'm currently looking for a junior offer focused in Web Development
 
-- I'm learning about React
+- I'm learning about React and Redux
 
 - Contact me at: igorcastilhos2010@hotmail.com
 

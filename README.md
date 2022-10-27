@@ -1,17 +1,14 @@
-<h1 align='center'>
-   Hello there, my name is Igor!
-  <br/>
-</h1>
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Igor</h1>
+<h4 align="center">I'm a Front-end developer and a student of Systems Information, if you have interest check out my <a href="colocar link do portfolio depois" target="_blank">resume</a> for more</h4>
+</div>
+<hr>
 
-<p align='center'>
- I am a Information Systems student from Brazil
-</p>
+🔭 I'm currently seeking a Junior opportunity
 
-- I'm currently looking for a junior offer focused in Web Development
+📖 I'm learning about React.Js, Next.Js and Tailwind CSS
 
-- I'm learning about React and Redux
-
-- Contact me at: igorcastilhos2010@hotmail.com
+📫 Contact me at: igorcastilhos2010@hotmail.com
 
 <div align="center">
   <a href="https://github.com/IgorCastilhos">

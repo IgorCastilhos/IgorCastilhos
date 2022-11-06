@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Igor</h1>
-<h4 align="center">I'm a Front-end developer and a student of Systems Information, if you have interest check out my <a href="colocar link do portfolio depois" target="_blank">resume</a> for more</h4>
+<h4 align="center">I'm a Front-end developer and a student of Systems Information, if you have interest check out my <a href="https://igor-paprocki.vercel.app/" target="_blank">resume</a> for more</h4>
 </div>
 <hr>
 

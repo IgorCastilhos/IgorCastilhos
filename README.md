@@ -12,7 +12,6 @@ These are some of the technologies and tools that I work with:
 
 Backend:
 ![Go](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-dc3d0d?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -42,6 +41,7 @@ Tools:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 
 IDEs:
+![GoLand](https://img.shields.io/badge/-GoLand-black?style=flat-square&logo=goland&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white)
-![GoLand](https://img.shields.io/badge/-GoLand-black?style=flat-square&logo=goland&logoColor=white)
+

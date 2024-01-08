@@ -11,10 +11,13 @@ ____
 These are some of the technologies and tools that I work with:
 
 
-![Skills](https://devicons.dev.br/icons?icon=GoLang,TypeScript,PostgreSQL,MySQL,Git,Github,Docker,Kubernetes,AWS,Redis,RabbitMQ,Nginx,&theme=dark&perline=4)
+<p align="center">
+  <a href="https://devicons.dev.br/">
+    <img src="https://devicons.dev.br/icons?icon=GoLang,TypeScript,Git,Github,AWS,Redis,RabbitMQ,PostgreSQL,MySQL,Nginx,Docker,Kubernetes&theme=dark&perline=4" />
+  </a>
+</p>
 
 IDEs:
 ![GoLand](https://img.shields.io/badge/-GoLand-black?style=flat-square&logo=goland&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white)
 

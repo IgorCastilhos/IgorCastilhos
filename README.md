@@ -2,7 +2,7 @@
 
 I'm Igor Castilhos, I'm a Information Systems student from Brazil, and I've been learning programming since 2022. 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/igor?style=social)](https://twitter.com/IgorPaprockiDv)
+[![Twitter Follow](https://img.shields.io/twitter/follow/igor?style=social)](https://twitter.com/IgorPCDev)
 [![Linkedin: Igor](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IgorCastilhos/)](https://www.linkedin.com/in/IgorCastilhos/)
 ____
 

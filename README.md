@@ -14,7 +14,7 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
   <a href="https://devicons.dev.br/">
-    <img src="https://devicons.dev.br/icons?icon=GoLang,TypeScript,Git,Github,PostgreSQL,MySQL,Nginx,Docker,Kubernetes,Redis,AWS,RabbitMQ&theme=dark&perline=12" />
+    <img src="https://devicons.dev.br/icons?icon=GoLang,TypeScript,Git,Github,PostgreSQL,MySQL,Nginx,Docker,Kubernetes,Redis,RabbitMQ&theme=dark&perline=12" />
   </a>
 </p>
 

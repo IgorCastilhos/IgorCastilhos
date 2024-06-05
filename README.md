@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Igor Castilhos, I'm a Information Systems student from Brazil, and I've been learning programming since 2022.
-I'm looking currently working at Cores e Festas as an Intern and my stack in the job is JavaScript, HTMX, Bootstrap and Node.
+I'm Igor Castilhos, I'm a Information Systems student from Brazil, and I've been learning about programming since 2022.
+I'm working at Cores e Festas as an Intern and my stack in the job is HTML, CSS and JavaScript.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/igor?style=social)](https://twitter.com/IgorPCDev)
 [![Linkedin: Igor](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IgorCastilhos/)](https://www.linkedin.com/in/IgorCastilhos/)

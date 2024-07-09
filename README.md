@@ -26,10 +26,9 @@ These are some of the technologies and tools that I work with:
 </p>
 
 IDEs:
-![Rider](https://img.shields.io/badge/-Rider-black?style=flat-square&logo=rider&logoColor=white)
-![GoLand](https://img.shields.io/badge/-GoLand-black?style=flat-square&logo=goland&logoColor=white)
+
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm&logoColor=white)
+![GoLand](https://img.shields.io/badge/-GoLand-black?style=flat-square&logo=goland&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-black?style=flat-square&logo=datagrip&logoColor=white)
 
 <!-- Links -->

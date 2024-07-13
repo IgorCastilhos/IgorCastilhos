@@ -1,6 +1,10 @@
-🌟 From Administration to Innovation: My Journey in Information Systems 🌟
+### Olá, I'm Igor Castilhos
 
-Brazilian Information Systems student with a background in Administration. Gained valuable experience at a law firm and Banrisul, merging finance proficiency with technology skills. Passionate about using tech to drive innovation and solve complex problems. Eager to contribute to impactful projects across various industries.
+---
+
+* 🇧🇷 I'm a Software Developer from Brazil
+* 🎉 I work for Cores e Festas (Uhuu)
+* 📚 I studied Information Systems at Unisinos.  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/igor?style=social)](https://twitter.com/IgorPCDev)
 [![Linkedin: Igor](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IgorCastilhos/)](https://www.linkedin.com/in/IgorCastilhos/)

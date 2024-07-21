@@ -12,12 +12,12 @@
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
-
+These are some of the technologies and tools that I have experience with:
 
 <p align="center">
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width=48 height=48/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=48 height=48/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=48 height=48/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=48 height=48/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=48 height=48/>
@@ -31,9 +31,11 @@ These are some of the technologies and tools that I work with:
 
 IDEs:
 
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white)
-![GoLand](https://img.shields.io/badge/-GoLand-black?style=flat-square&logo=goland&logoColor=white)
-![DataGrip](https://img.shields.io/badge/-DataGrip-black?style=flat-square&logo=datagrip&logoColor=white)
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" width=48 height=48/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width=48 height=48/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width=48 height=48/>
+</p>
+  
 <!-- Links -->
 [cores-e-festas]: https://coresefestas.com.br/

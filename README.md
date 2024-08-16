@@ -3,7 +3,7 @@
 ---
 
 * 🇧🇷 I'm a Software Developer from Brazil
-* 🎉 I work for Cores e Festas (Uhuu)
+* 🎖️ I work for the Court of Military Justice of the State of Rio Grande do Sul
 * 📚 I studied Information Systems at Unisinos.  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/igor?style=social)](https://twitter.com/IgorPCDev)

@@ -2,8 +2,8 @@
 
 ---
 
-* 🇧🇷 I'm a Software Developer from Brazil
-* 🎖️ I work for the Court of Military Justice of the State of Rio Grande do Sul
+* 🇧🇷 I'm a Software Engineer from Brazil
+* 🧑🏻‍💻 I work for Creare Sistemas
 * 📚 I studied Information Systems at Unisinos.  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/igor?style=social)](https://twitter.com/IgorPCDev)

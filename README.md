@@ -3,7 +3,7 @@
 ---
 
 * 🇧🇷 I'm a Software Engineer from Brazil
-* 🧑🏻‍💻 I work for Crosoften
+* 🧑🏻‍💻 I work for Dimensa
 * 📚 I studied Information Systems at Unisinos.  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/igor?style=social)](https://twitter.com/IgorPCDev)

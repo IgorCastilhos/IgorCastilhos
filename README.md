@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Igor%20Castilhos&fontColor=ffffff&fontSize=42&fontAlignY=72&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Fintech%20%7C%20Distributed%20Systems&descAlignY=95&descSize=16&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:0a1929&height=120&section=header&text=Igor%20Castilhos&fontColor=ffffff&fontSize=42&fontAlignY=72&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Fintech%20%7C%20Distributed%20Systems&descAlignY=95&descSize=16&descColor=42ACF9" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Engineer+%40+Dimensa+(TOTVS+%2B+B3);Java+%7C+Spring+Boot+%7C+Kafka+%7C+AWS;Building+distributed+systems+for+fintech;Founder+%40+Novaware+%E2%80%94+AI+for+SMBs;Clean+Architecture+%7C+DDD+%7C+Event-Driven;Open+to+remote+USD+opportunities+%F0%9F%8C%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=42ACF9&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Engineer+%40+Dimensa+(TOTVS+%2B+B3);Java+%7C+Spring+Boot+%7C+Kafka+%7C+AWS;Building+distributed+systems+for+fintech;Founder+%40+Novaware+%E2%80%94+AI+for+SMBs;Clean+Architecture+%7C+DDD+%7C+Event-Driven;Open+to+remote+USD+opportunities+%F0%9F%8C%8E" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,9 +14,9 @@
     <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://novaware.com.br">
-    <img src="https://img.shields.io/badge/Novaware-7c3aed?style=for-the-badge&logo=lightning&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Novaware-42ACF9?style=for-the-badge&logo=lightning&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=IgorCastilhos&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=IgorCastilhos&style=for-the-badge&color=42ACF9&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -101,12 +101,13 @@ public class Igor {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCastilhos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCastilhos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCastilhos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=42ACF9&icon_color=42ACF9&text_color=c9d1d9&bg_color=0d1117"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCastilhos&layout=compact&theme=transparent&hide_border=true&title_color=42ACF9&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorCastilhos&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=IgorCastilhos&theme=dark&hide_border=true&background=0d1117&ring=42ACF9&fire=42ACF9&currStreakLabel=42ACF9&sideLabels=42ACF9&dates=c9d1d9&stroke=42ACF9" width="65%"/>
 </p>
 
 ---
@@ -114,7 +115,7 @@ public class Igor {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorCastilhos&theme=onestar&no-frame=true&column=7&margin-w=8&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IgorCastilhos&theme=algolia&no-frame=true&column=7&margin-w=8" />
 </p>
 
 ---
@@ -135,4 +136,4 @@ public class Igor {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,50:0d2137,100:0a0f1e&height=100&section=footer&animation=fadeIn" width="100%"/>

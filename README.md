@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/igorcastilhos/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:igor@novaware.com.br">
+  <a href="mailto:igorcastilhos.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://novaware.com.br">
@@ -23,27 +23,13 @@
 
 ## ⚡ About Me
 
-```java
-@Component
-public class Igor {
+I am a **Software Engineer** specializing in distributed architectures and backend systems, currently building robust microservices for high-demand financial environments. I balance my time between engineering core banking solutions and scaling my own AI infrastructure startup.
 
-    private final String role      = "Backend Engineer @ Dimensa (TOTVS + B3)";
-    private final String location  = "Porto Alegre, RS, Brazil 🇧🇷";
-    private final String company   = "Dimensa — R$13T+ in daily assets, 9 of Brazil's top 10 banks";
-    private final String venture   = "Founder @ Novaware — AI infrastructure for SMBs";
-    private final String education = "B.Sc. Computer Science @ Unisinos (Dec 2026)";
-
-    private final List<String> currentFocus = List.of(
-        "Event-driven microservices with Kafka",
-        "LLM pipelines for financial signal extraction (TCC)",
-        "Landing international remote opportunities"
-    );
-
-    private final List<String> principles = List.of(
-        "Clean Architecture", "DDD", "CQRS", "SOLID", "TDD"
-    );
-}
-```
+* 🏦 **Enterprise Engineering:** Building Kafka-driven, fault-tolerant Java & Spring Boot microservices at **Dimensa (TOTVS + B3)**, processing over R$13T+ in daily assets for 9 of Brazil's top 10 banks.
+* 🚀 **Entrepreneurship:** Founder of **Novaware**, delivering AI support agents, WhatsApp automation, and full workflow orchestration for SMBs. 
+* ⚙️ **Core Philosophy:** I build pragmatically, prioritizing high cohesion and loose coupling. My workflow heavily relies on the **Red-Green-Refactor** TDD cycle to ensure robust test coverage at unit, integration, and acceptance levels. I apply **Clean Architecture, DDD, and SOLID** principles to maintain clear system boundaries without over-engineering.
+* 🎓 **Current Focus:** Completing my B.Sc. in Computer Science at Unisinos (Dec 2026), researching LLM pipelines for automated financial signal extraction from Brazilian regulatory documents.
+* 🌍 **Looking For:** Open to remote, international opportunities (USD) where I can leverage my expertise in event-driven systems to solve complex scalability problems.
 
 ---
 
@@ -53,16 +39,16 @@ public class Igor {
   <tr>
     <td width="50%">
       <h3>🏦 @ Dimensa</h3>
-      <p>Building and maintaining <strong>Java + Spring Boot microservices</strong> for Brazil's largest financial infrastructure platform — backed by TOTVS & B3, processing <strong>R$13T+ in daily assets</strong>.</p>
+      <p>Building and maintaining <strong>Java + Spring Boot microservices</strong> for Brazil's largest financial infrastructure platform.</p>
       <ul>
-        <li>Kafka-driven async pipelines</li>
-        <li>Observability with Grafana & Prometheus</li>
+        <li>Kafka-driven async pipelines reducing service coupling</li>
+        <li>Observability stacks with Grafana & Prometheus</li>
         <li>PostgreSQL · Docker · Kubernetes · AWS</li>
       </ul>
     </td>
     <td width="50%">
       <h3>🤖 @ Novaware</h3>
-      <p>Founded an <strong>AI infrastructure company</strong> delivering intelligent automation to small and medium businesses — from AI agents to full workflow orchestration.</p>
+      <p>Delivering intelligent automation to small and medium businesses — from AI agents to full workflow orchestration.</p>
       <ul>
         <li>AI support, sales & scheduling agents</li>
         <li>WhatsApp automation via Evolution API</li>
@@ -104,18 +90,6 @@ public class Igor {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCastilhos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=42ACF9&icon_color=42ACF9&text_color=c9d1d9&bg_color=0d1117"/>
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCastilhos&layout=compact&theme=transparent&hide_border=true&title_color=42ACF9&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IgorCastilhos&theme=dark&hide_border=true&background=0d1117&ring=42ACF9&fire=42ACF9&currStreakLabel=42ACF9&sideLabels=42ACF9&dates=c9d1d9&stroke=42ACF9" width="65%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorCastilhos&theme=algolia&no-frame=true&column=7&margin-w=8" />
 </p>
 
 ---

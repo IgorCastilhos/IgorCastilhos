@@ -21,6 +21,16 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorCastilhos/IgorCastilhos/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorCastilhos/IgorCastilhos/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/IgorCastilhos/IgorCastilhos/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
+
 ## ⚡ About Me
 
 I am a **Software Engineer** specializing in distributed architectures and backend systems, currently building robust microservices for high-demand financial environments. I balance my time between engineering core banking solutions and scaling my own AI infrastructure startup.
@@ -81,26 +91,6 @@ I am a **Software Engineer** specializing in distributed architectures and backe
 <p>
   <img src="https://skillicons.dev/icons?i=idea,git,github,postman,bash&theme=dark" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCastilhos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=42ACF9&icon_color=42ACF9&text_color=c9d1d9&bg_color=0d1117"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCastilhos&layout=compact&theme=transparent&hide_border=true&title_color=42ACF9&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorCastilhos/IgorCastilhos/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorCastilhos/IgorCastilhos/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/IgorCastilhos/IgorCastilhos/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 ---
 

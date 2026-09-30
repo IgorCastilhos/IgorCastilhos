@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=42ACF9&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Engineer+%40+Evertec+(TOTVS+%2B+B3);Java+%7C+Spring+Boot+%7C+Kafka+%7C+AWS;Building+distributed+systems+for+fintech;Founder+%40+Novaware+%E2%80%94+AI+for+SMBs;Clean+Architecture+%7C+DDD+%7C+Event-Driven;Open+to+remote+USD+opportunities+%F0%9F%8C%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=42ACF9&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Engineer+%40+Evertec+(Evertec);Java+%7C+Spring+Boot+%7C+Kafka+%7C+AWS;Building+distributed+systems+for+fintech;Founder+%40+Novaware+%E2%80%94+AI+for+SMBs;Clean+Architecture+%7C+DDD+%7C+Event-Driven;Open+to+remote+USD+opportunities+%F0%9F%8C%8E" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 I am a **Software Engineer** specializing in distributed architectures and backend systems, currently building robust microservices for high-demand financial environments. I balance my time between engineering core banking solutions and scaling my own AI infrastructure startup.
 
-* 🏦 **Enterprise Engineering:** Building Kafka-driven, fault-tolerant Java & Spring Boot microservices at **Evertec (TOTVS + B3)**, processing over R$13T+ in daily assets for 9 of Brazil's top 10 banks.
+* 🏦 **Enterprise Engineering:** Building Kafka-driven, fault-tolerant Java & Spring Boot microservices at **Evertec**, processing over R$13T+ in daily assets for 9 of Brazil's top 10 banks.
 * 🚀 **Entrepreneurship:** Founder of **Novaware**, delivering AI support agents, WhatsApp automation, and full workflow orchestration for SMBs. 
 * ⚙️ **Core Philosophy:** I build pragmatically, prioritizing high cohesion and loose coupling. My workflow heavily relies on the **Red-Green-Refactor** TDD cycle to ensure robust test coverage at unit, integration, and acceptance levels. I apply **Clean Architecture, DDD, and SOLID** principles to maintain clear system boundaries without over-engineering.
 * 🎓 **Current Focus:** Completing my B.Sc. in Computer Science at Unisinos (Dec 2026), researching LLM pipelines for automated financial signal extraction from Brazilian regulatory documents.
